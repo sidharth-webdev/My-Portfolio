@@ -13,7 +13,8 @@ It showcases my projects, technical skills, and achievements with a clean, minim
 - 🧩 Reusable and well-structured components
 - 🧭 Smooth navigation and section transitions
 - 📂 Sections include:
-  - About   
+  - About
+  - Education  
   - Skills  
   - Projects  
   - Contact  
@@ -46,3 +47,4 @@ npm install
 
 # Start the development server
 npm run dev
+
