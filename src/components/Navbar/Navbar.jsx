@@ -68,7 +68,7 @@ const Navbar = () => {
           ))}
         </ul>
 
-        {/* Social Icons */}
+      
         <div className="hidden md:flex space-x-4">
           <a
             href="https://github.com/sidharth-webdev"
@@ -88,7 +88,7 @@ const Navbar = () => {
           </a>
         </div>
 
-        {/* Mobile Menu Icon */}
+        
         <div className="md:hidden">
           {isOpen ? (
             <FiX
@@ -104,7 +104,7 @@ const Navbar = () => {
         </div>
       </div>
 
-         {/* Mobile Menu Items */}
+      
       {isOpen && (
         <div className="absolute top-16 left-1/2 transform -translate-x-1/2 w-4/5 bg-[#050414] bg-opacity-50 backdrop-filter backdrop-blur-lg z-50 rounded-lg shadow-lg md:hidden">
           <ul className="flex flex-col items-center space-y-4 py-4 text-gray-300">
