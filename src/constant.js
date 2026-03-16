@@ -93,11 +93,11 @@ export const SkillsInfo = [
     },
     { 
       id: 1,  
-      title: "Student Teacher Appointment Booking",
-      description:"A web application that allows students to book appointments with teachers, view schedules, and manage sessions using Firebase for authentication and data storage.",
-      image:teacherappointmentbookingLogo,
-      tags: ["HTML", "CSS", "JavaScript", "FireBase"],
-      github: "https://github.com/sidharth-webdev/student-teacher-app",
+      title: "Tomato - Food delivery Website",
+      description:"Developed a full-stack food delivery web application using the MERN stack (MongoDB, Express.js, React, Node.js) with features like user authentication, menu browsing, cart, and order management.",
+      image:food-deliverylogo,
+      tags: ["MongoDB","Express.js","React.js","Node.js"], 
+      github: "https://github.com/sidharth-webdev/food-delivery", 
     },
     {  
       id: 2,
