@@ -22,8 +22,8 @@ import SctevtLogo from './assets/education_logo/SctevtLogo.png';
 // Project Section Logo's
 import hotelmanagementLogo from './assets/work_logo/hotelmanagement.png';
 import weatherLogo from './assets/work_logo/weather.png';
-import teacherappointmentbookingLogo from './assets/work_logo/teacherappointmentbooking.png';
 import fakestoreLogo from './assets/work_logo/fakestore.png';
+import fooddeliverylogo from './assets/work_logo/food-deliverylogo.png';
 
 
 export const SkillsInfo = [ 
@@ -95,7 +95,7 @@ export const SkillsInfo = [
       id: 1,  
       title: "Tomato - Food delivery Website",
       description:"Developed a full-stack food delivery web application using the MERN stack (MongoDB, Express.js, React, Node.js) with features like user authentication, menu browsing, cart, and order management.",
-      image:food-deliverylogo,
+      image:fooddeliverylogo,
       tags: ["MongoDB","Express.js","React.js","Node.js"], 
       github: "https://github.com/sidharth-webdev/food-delivery", 
     },
