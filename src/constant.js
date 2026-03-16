@@ -99,7 +99,7 @@ export const SkillsInfo = [
       tags: ["HTML", "CSS", "JavaScript", "FireBase"],
       github: "https://github.com/sidharth-webdev/student-teacher-app",
     },
-    {
+    {  
       id: 2,
       title: "Fakestore",
       description:"An e-commerce web app built using FakeStoreAPI to display products with category-based filtering, product details, and a responsive user interface — similar to Amazon or Flipkart.",
@@ -115,4 +115,4 @@ export const SkillsInfo = [
       tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
       github: "https://github.com/sidharth-webdev/Hotel-management",
     },
-  ];           
+  ];        
