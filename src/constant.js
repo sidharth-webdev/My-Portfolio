@@ -21,9 +21,10 @@ import SctevtLogo from './assets/education_logo/SctevtLogo.png';
 
 // Project Section Logo's
 import hotelmanagementLogo from './assets/work_logo/hotelmanagement.png';
-import weatherLogo from './assets/work_logo/weather.png';
+import airesumebuilderlogo from './assets/work_logo/ai-resume-builder.png';
 import fakestoreLogo from './assets/work_logo/fakestore.png';
 import fooddeliverylogo from './assets/work_logo/food-deliverylogo.png';
+
 
 
 export const SkillsInfo = [ 
@@ -85,11 +86,11 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
-      title: "Weather App",
-      description:"A weather forecasting web app that provides real-time temperature, humidity, and condition updates using the OpenWeather API. Developed with React and styled for a clean, responsive user interface.",
-      image:weatherLogo,
-      tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-      github: "https://github.com/sidharth-webdev/Weather-App",
+      title: "Ai-Resume-builder",
+      description:"AI-powered resume builder using MERN & Gemini API — generate professional, job-tailored resumes and export as PDF instantly.",
+      image: airesumebuilderlogo,
+      tags: ["MongoDB","Node.js","React","Express.js","Gemini AI"], 
+      github: "https://github.com/sidharth-webdev/Ai-Resume-Builder", 
     },
     { 
       id: 1,  
