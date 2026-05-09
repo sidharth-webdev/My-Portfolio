@@ -40,7 +40,7 @@ const About = () => {
             An aspiring Full-Stack Web Developer who loves turning ideas into interactive digital experiences. Skilled in building projects using React, JavaScript, and modern web tools. Focused on writing clean, maintainable code and continuously improving through hands-on learning and collaboration.
           </p>
           <a
-            href="https://drive.google.com/file/d/1dE9E5bYi5MCfgzaytaROMLVV_O1JEKk_/view?usp=drive_link" 
+            href="https://drive.google.com/file/d/1dE9E5bYi5MCfgzaytaROMLVV_O1JEKk_/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
