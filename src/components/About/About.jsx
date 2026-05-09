@@ -40,7 +40,7 @@ const About = () => {
             An aspiring Full-Stack Web Developer who loves turning ideas into interactive digital experiences. Skilled in building projects using React, JavaScript, and modern web tools. Focused on writing clean, maintainable code and continuously improving through hands-on learning and collaboration.
           </p>
           <a
-            href="https://drive.google.com/file/d/1ld8AYC3rCWwiEuxpoM_z1MXebN3xFN4D/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1dE9E5bYi5MCfgzaytaROMLVV_O1JEKk_/view?usp=drive_link" 
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
@@ -49,7 +49,7 @@ const About = () => {
               boxShadow: '0 0 2px #8245ec, 0 0 2px #8245ec, 0 0 40px #8245ec',
             }}
           >
-            DOWNLOAD CV 
+            DOWNLOAD CV  
           </a>
         </div>
          <div className="md:w-1/2 flex justify-center md:justify-end">
