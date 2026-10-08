@@ -20,7 +20,7 @@ import BputLogo from './assets/education_logo/BputLogo.png';
 import SctevtLogo from './assets/education_logo/SctevtLogo.png';
 
 // Project Section Logo's
-import hotelmanagementLogo from './assets/work_logo/hotelmanagement.png';
+import socialschedulerlogo from './assets/work_logo/social-scheduler.png';
 import airesumebuilderlogo from './assets/work_logo/ai-resume-builder.png';
 import fakestoreLogo from './assets/work_logo/fakestore.png';
 import fooddeliverylogo from './assets/work_logo/food-deliverylogo.png';
@@ -93,27 +93,27 @@ export const SkillsInfo = [
       github: "https://github.com/sidharth-webdev/Ai-Resume-Builder", 
     },
     { 
-      id: 1,  
+      id: 1,
+      title: "Social-Scheduler", 
+      description:"Built a Social Media Scheduler using React, Node.js, Express, and MongoDB with AI-powered content generation and post scheduling.", 
+      image: socialschedulerlogo,
+      tags: ["MongoDB","Node.js","React","Express.js","Gemini AI"], 
+      github: "https://github.com/sidharth-webdev/social-scheduler", 
+    },
+    {  
+      id: 2,  
       title: "Tomato - Food delivery Website",
       description:"Developed a full-stack food delivery web application using the MERN stack (MongoDB, Express.js, React, Node.js) with features like user authentication, menu browsing, cart, and order management.",
       image:fooddeliverylogo,
       tags: ["MongoDB","Express.js","React.js","Node.js"], 
       github: "https://github.com/sidharth-webdev/food-delivery", 
     },
-    {  
-      id: 2,
+    { 
+      id: 3,
       title: "Fakestore",
       description:"An e-commerce web app built using FakeStoreAPI to display products with category-based filtering, product details, and a responsive user interface — similar to Amazon or Flipkart.",
       image: fakestoreLogo,
       tags: ["React JS", "API", "HTML", "CSS","Bootstrap", "JavaScript"],
       github: "https://github.com/sidharth-webdev/Fakestore-App", 
     },
-    { 
-      id: 3,
-      title: "Hotel Booking Web App",
-      description:"A hotel management web app built using HTML, CSS, JavaScript, and Bootstrap. It allows users to register for rooms, select room types and amenities, calculate total cost, and view a detailed booking summary dynamically.",
-      image: hotelmanagementLogo,
-      tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-      github: "https://github.com/sidharth-webdev/Hotel-management",
-    },
-  ];        
+  ];         
